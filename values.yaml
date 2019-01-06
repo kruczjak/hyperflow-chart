@@ -1,0 +1,3 @@
+rabbitmq:
+  metrics:
+    enabled: true
