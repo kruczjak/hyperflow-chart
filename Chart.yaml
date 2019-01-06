@@ -1,0 +1,7 @@
+apiVersion: v1
+description: Hyperflow helm chart
+name: hyperflow
+version: 0.0.1
+appVersion: 0.0.1
+sources:
+  - https://github.com/hyperflow-wms/hyperflow
